@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+title: DevOpsNext
+description: An easy to use DevOps stack
+
+include: ['docPages']
