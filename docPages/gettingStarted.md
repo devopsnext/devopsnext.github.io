@@ -8,9 +8,10 @@ permalink: gettingstarted
 ---
 
 ### Pre-requisites
+
 Docker and Docker-compose should be installed on your host machine.
 
-## Getting Started
+### Getting Started
 
 - Clone/Download the repository : https://github.com/devopsnext/devopsnext-compose.git
 - Run the command : docker-compose up -d
