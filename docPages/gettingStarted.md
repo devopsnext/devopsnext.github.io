@@ -15,6 +15,6 @@ Docker and Docker-compose should be installed on your host machine.
 
 - Clone/Download the repository : https://github.com/devopsnext/devopsnext-compose.git
 - Run the command : docker-compose up -d
-- Open your browser to navigate to : http://<Container_IP>:8000 , to fill the required details
+- Open your browser to navigate to : http://Container-IP:8000 , to fill the required details
 - Once you click on "Submit", the page would be redirected to Jenkins
 
